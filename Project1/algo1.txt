@@ -1,0 +1,3 @@
+3 22 24 27 34 35 46 67 98  : is the Sorted Array 
+ 
+('First minimum difference is:', 1, 'between pair', (34, 35), 'and Second minimum distance is:', 2, 'between pair', (22, 24))
